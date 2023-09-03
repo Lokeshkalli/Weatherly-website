@@ -1,4 +1,4 @@
-const API_KEY = "ede1be2bb8d510eab027dc286e7a6248";
+const API_KEY = "";
 const weather = document.querySelector('.weather');
 const main = weather.querySelector(".main");
 const input_field = main.querySelector('input');
